@@ -1,0 +1,10 @@
+
+17-02-23u2728--INSERT INTO `contact` (name,mobile_number,message) values('h','j','8','mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm ')
+30-04-23u9959--INSERT INTO `dashboard` (`email`,`date`,`amount`,`category`) values('E','10000','')
+30-04-23u7612--INSERT INTO `dashboard` (`email`,`date`,`amount`,`category`) values('','2023-04-12','11')
+30-04-23u9307--INSERT INTO `dashboard` (`email`,`date`,`amount`,`category`) values(xyz@gmail.com,'2023-04-12','11','ds')
+30-04-23u1689--INSERT INTO `dashboard` (`email`,`date`,`amount`,`category`) values(xyz@gmail.com,'2023-04-12','11','ds')
+
+04-07-23u7087--INSERT INTO `dashboard` (`date`,`amount`,`category`,`email`) values('2023-07-04','4000','Vehicle Service','abc@gmail.com')
+
+04-07-23u1294--INSERT INTO `users` (`name`,`password`,`email`) values('abc','MTIz','abc@gmail.com')

@@ -1,0 +1,127 @@
+
+label.valid {
+	width: 24px;
+	height: 24px;
+	background: url(assets/img/valid.png) center center no-repeat;
+	display: inline-block;
+	text-indent: -9999px;
+}
+
+label.error {
+	font-weight: bold;
+	color: red;
+	padding: 2px 8px;
+	margin-top: 2px;
+}
+body{
+	background-color: #f2f2f2;
+	margin:0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.navb-login{
+	float: right;
+	margin:20px;
+	padding-top:20px;
+	padding-right:20px;
+}
+
+.navb-register{
+	float: left;
+	margin:20px;
+	padding-top:20px;
+	padding-left:20px;
+}
+
+.bt{
+	border:none;
+	background: none;
+	color:#1d186e;
+	font-weight: bold;
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+.cont{
+	padding: 10vh 10vw;
+	height:100vh;
+	width:100vw;
+}
+.circle{
+	background-color: #1cc6e8;
+	width:35vw;
+	height: 35vw;
+	border-radius:50%;
+	position: fixed;
+	left:-7%;
+	bottom: -25%;
+	z-index: -1;
+	filter: blur(7px);
+}
+.circle1{
+	background-color: #1cc6e8;
+	width:25vw;
+	height: 25vw;
+	border-radius:50%;
+	position: fixed;
+	top:-30%;
+	right: 15%;
+	z-index: -1;
+	filter: blur(7px);
+}
+.circle-register{
+	background-color: #1cc6e8;
+	width:35vw;
+	height: 35vw;
+	border-radius:50%;
+	position: fixed;
+	right:-7%;
+	bottom: -25%;
+	z-index: -1;
+	filter: blur(7px);
+}
+.circle1-register{
+	background-color: #1cc6e8;
+	width:25vw;
+	height: 25vw;
+	border-radius:50%;
+	position: fixed;
+	top:-30%;
+	left: 15%;
+	z-index: -1;
+	filter: blur(7px);
+}
+.main-cont{
+  background: rgba(255,255,255,0.4);
+	border-style: solid;
+	border-width: 5px;
+	border-color: #ffffff;
+	border-radius: 20px;
+	align-items: center;
+	padding: 20px;
+}
+.form-cont{
+	background-color: #fefefe;
+	border-radius: 20px;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+button{
+	margin: 2px;
+}
+.btn{
+	background-color: #51f0a3;
+	border: none;
+	text-align:center;
+	font-weight: 600;
+}
+.forgot-password{
+	float:right;
+}
+.no-account{
+	text-align: center;
+	margin-top: 7px;
+}
